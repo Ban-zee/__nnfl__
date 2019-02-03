@@ -1,10 +1,12 @@
-NNFL Workshup
+# NNFL (BITS F312) Workshop
 
-BITS Pilani
-CS F312
 
-Jupyter Notebooks
+### Jupyter Notebooks
 
-Authors:-
-Vikram Waradpande
-Achal Agarwal
+#### Tutorials for Python and various libraries!
+
+
+### Authors
+
+ #### - Vikram Waradpande @Wvik
+ #### - Achal Agarwal @achalagarwal
