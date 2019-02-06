@@ -51,3 +51,5 @@ Press ```cmd ``` + ```shift``` + ```P``` for quick access to all commands in Jup
 ## How to Practice
 Open a blank jupyter notebook and using the workshop's notebooks as a reference, write (do not just copy and paste) and run the code in the blank. This will help you to get comfortable with all the data structures and ideas that you'll need for the assignment. Feel free to exploit the internet for your doubts.
 
+##  Contact
+In case you have doubts, please write an email to bitsnnfl@gmail.com!
